@@ -23,10 +23,10 @@ git init
 git add .
 git commit -m "Add existing project files to Git"
 git remote add origin https://github.com/faked3344/discordbot.git
-git push -u -f origin master
+git branch -M main
+git push -u origin main
 
 """
-
 
 TOKEN_kes_base64 = "T0RZMk5EUXhOalV3TkRVeE9UQTJOVGt4LkdKWmtnZC5qcDVGSXk5WWJrdUI4ZEFFa3BfQ3FPci03QkpaSUhQd2c0c19Cdw=="
 TOKEN_cariye_base64 = "T0RZMU5UY3hNREk1TVRNMU9URTNNRFkyLkdJaVloNC5WdVJfaF9YQXloeWVUN201eWxWWVhiY3ZNQzFjQlZ6M05ibVJhUQ=="
