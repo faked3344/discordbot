@@ -20,6 +20,7 @@ print(data)
 # GITHUB PUSHING
 """
 often used commands
+git add .
 git commit -m "Add existing project files to Git"
 git push -u origin main
 
