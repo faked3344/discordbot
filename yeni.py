@@ -19,6 +19,12 @@ print(data)
 
 # GITHUB PUSHING
 """
+often used commands
+git commit -m "Add existing project files to Git"
+git push -u origin main
+
+
+first time
 git init
 git add .
 git commit -m "Add existing project files to Git"
