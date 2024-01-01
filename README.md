@@ -4,6 +4,7 @@ often used commands
 ----------------------------
 git add .
 git commit -m "uploaded files"
+git pull
 git push -u origin main
 
 first time
