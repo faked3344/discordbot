@@ -1,0 +1,5 @@
+replicate
+discord.py
+lxml
+pybase64
+beautifulsoup4
